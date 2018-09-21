@@ -1,2 +1,2 @@
 # Github-Tutorial
-Example
+Example of the Github tutorial
